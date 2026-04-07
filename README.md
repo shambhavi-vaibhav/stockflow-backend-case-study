@@ -2,6 +2,11 @@
 
 This repository contains the technical solution for the **Bynry Backend Engineering Intern** case study. 
 
+##📄 Detailed Documentation & Analysis
+For a deep dive into the architectural decisions, database normalization logic, and scalability strategies (including the Expert, Architect, and Builder perspectives), please refer to the full case study document:
+
+###https://docs.google.com/document/d/1p9gihZxd7Y-0ADakc2hTAivPOT0dIIM5Q5j64bGEPss/edit?tab=t.0###
+
 ## 🚀 Project Overview
 StockFlow is a specialized SaaS platform designed for small businesses to manage inventory across multiple warehouses. This solution addresses core backend challenges: data integrity, scalable database design, and intelligent alerting.
 
